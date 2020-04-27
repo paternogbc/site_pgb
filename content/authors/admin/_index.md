@@ -46,15 +46,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/paternogb
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.br/citations?user=uNxyHMkAAAAJ&hl=pt-PT
 - icon: github
   icon_pack: fab
   link: https://github.com/paternogbc
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/wmtye/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Gustavo_Paterno2
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/paternogb
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
