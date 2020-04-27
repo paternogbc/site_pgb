@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = ""
+title = "Main research areas"
+subtitle = "Searching for answers on"
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "pagelines"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Ecology"
+  description = "Plant Ecology - Restoration Ecology - Ecosystem Function"
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Evolution"
+  description = "Evolution of Sex - Sexual Selection in Plants - Macro-evolution - Diversification"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data-analysis"
+  description = "Phylogentic comparative methods - Data vizualization - Sensitivity analysis"
+
 
 +++

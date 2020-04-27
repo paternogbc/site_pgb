@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gustavo B Paterno
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidade Federal do Rio Grande do Norte
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD in Ecology
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ecology & Evolution
+- Restoration Ecology
+- Data Analysis
+- Open Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Ecology
+    institution: UFRN | TUM | VUB | MQ
+    year: 2018
+  - course: M.Sc. in Ecology
+    institution: Universidade Federal do Rio Grande do Norte
+    year: 2013
+  - course: B.Sc. in Ecology
+    institution: Universidade Federal do Rio Grande do Norte
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/paternogb
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.br/citations?user=uNxyHMkAAAAJ&hl=pt-PT
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/paternogbc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +62,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "paternogbc@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in Ecology, Evolution and Data Analysis. My current research is focused on the role of herbivores and sexual selection on the evolution of sex and the diversification of the Angiosperms. I am also interested in the mechanisms shaping plant community structure and their implications to restoration ecology. I have great interest in statistics and data visualization, phylogenetics and developing open software.
