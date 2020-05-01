@@ -12,4 +12,6 @@ header:
   image: ""
 ---
 
-...
+{{% alert note %}}
+**Bottom line:** If you are stumbling upon this blog post in the year 2020 or beyond, know that there is a better way!
+{{% /alert %}}
