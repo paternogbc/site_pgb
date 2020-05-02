@@ -5,7 +5,7 @@ name = "gustavo_theme"
 light = true
 
 # Primary
-primary = "#4da36f"
+primary = "#67a936"
 
 # Menu
 menu_primary = "#fbf9f4"
@@ -15,5 +15,5 @@ menu_title = "#333"
 
 # Backgrounds
 background = "#fbf9f4"
-home_section_odd = "#fbf9f4"
-home_section_even = "#fbf9f4"
+home_section_odd = "#ebebeb"
+home_section_even = "#ffffff"
