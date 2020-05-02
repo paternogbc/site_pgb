@@ -5,7 +5,7 @@ name = "gustavo_theme"
 light = true
 
 # Primary
-primary = "#4da36f"
+primary = "#67a936"
 
 # Menu
 menu_primary = "#fbf9f4"
