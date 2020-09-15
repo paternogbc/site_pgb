@@ -18,7 +18,7 @@ subtitle = "Searching for answers on"
   icon = "pagelines"
   icon_pack = "fab"
   name = "Ecology"
-  description = "Plant Ecology - Restoration Ecology - Ecosystem Function"
+  description = "Plant Ecology - Restoration Ecology - Biodiversity-ecosystem function"
   
 [[feature]]
   icon = "dna"

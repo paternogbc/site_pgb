@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Visiting Lecturer (Chair of Restoration Ecology)
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal do Rio Grande do Norte
+- name: Technical University of Munich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,7 @@ bio: PhD in Ecology
 interests:
 - Ecology & Evolution
 - Restoration Ecology
+- biodiversity-ecosystem function
 - Data Analysis
 - Open Science
 
@@ -77,4 +78,14 @@ email: "paternogbc@gmail.com"
 
 ---
 
-I am interested in Ecology, Evolution and Data Analysis. My current research is focused on the role of herbivores and sexual selection on the evolution of sex and the diversification of the Angiosperms. I am also interested in the mechanisms shaping plant community structure and their implications to restoration ecology. I have great interest in statistics and data visualization, phylogenetics and developing open software.
+Graduated in Ecology and trained as a plant ecologist with a master and PhD in
+ecology. In the last two years has worked as a postdoctoral fellow conducting research
+on the evolution of sexual strategies in the angiosperms and developing a large-scale
+restoration experiment in the Atlantic Forest. Is an ambassador of the Center for Open
+Science and a member of the steering committee of the Global Arid Zone Project (a
+global synthesis of restoration initiatives in arid and semi-arid environments). Has
+great experience working in collaboration with international reserach projects, strong
+background in experimental ecology, evolutionary analysis, comparative studies and
+statistical programming in R. Has served as an Lecturer of Ecology at the Department
+of Botany, Ecology and Zoology at UFRN. Has experience in postgraduate teaching,
+including theoretical and field ecology, statistics and evolution.
